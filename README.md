@@ -1,14 +1,19 @@
-### <div>Hi there, I am Akanksha! 👋</div> </b>
+### <div align="center">Hi there, I am Akanksha! 👋</div> </b>
 
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
-
-- 👋 A 2nd year CSE student from Vellore Institute of Technology.
-- 🌱 I’m currently learning Web development and Machine Learning.
-- 💞️ I love exploring and trying out new ideas through technology!
+<br />
+<div align="center">
+👋 A 2nd year CSE student from Vellore Institute of Technology.
+<br />
+🌱 I’m currently learning Web development and Machine Learning.
+<br />
+💞️ I love exploring and trying out new ideas through technology!
+</div>
+<div align="center">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,7 +33,7 @@
 <a href="https://instagram.com/akanksha_dhar"><img src="https://img.shields.io/badge/-@akanksha__dhar_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
-
+</div>
 <!---
 akankshadhar2/akankshadhar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
