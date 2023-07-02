@@ -7,9 +7,9 @@
 
 <br />
 <div align="center">
-👋 A 2nd year CSE student from Vellore Institute of Technology.
+👋 A Final CSE student from Vellore Institute of Technology.
 <br />
-🌱 I’m currently learning Web development and Machine Learning.
+🌱 I’m currently learning Machine Learning and Web Development.
 <br />
 💞️ I love exploring and trying out new ideas through technology!
 </div>
