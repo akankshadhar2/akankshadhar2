@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-👋 A Final CSE student from Vellore Institute of Technology.
+👋 A Final year CSE student from Vellore Institute of Technology.
 <br />
 🌱 I’m currently learning Machine Learning and Web Development.
 <br />
